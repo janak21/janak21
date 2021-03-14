@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @janak21
+- 👀 I’m interested in Cloud, Automation (Ansible), DevOps, Big Data...
+- 🌱 I’m currently learning AWS, Openshift...
+- 📫 How to reach me --> Drop an email on sawalejanak5@gmail.com...
+
+<!---
+janak21/janak21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
