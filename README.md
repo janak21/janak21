@@ -1,4 +1,4 @@
-# Janak Sawale
+# Janak S
 
 I build AI voice agents and automations, and the demos that get customers to sign. I'm looking for a solutions engineer, forward deployed or deployment role at an AI company.
 
